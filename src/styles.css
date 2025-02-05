@@ -1,1 +1,27 @@
-/* You can add global styles to this file, and also import other style files */
+
+@font-face {
+    font-family: "Red Hat Text";
+    src: url(./app/assets/fonts/Red_Hat_Text/RedHatText-VariableFont_wght.ttf);
+}
+
+:root{
+    /* Primary Colors */
+    --Grayish_blue: hsl(237, 18%, 59%);
+    --Soft_red: hsl(345, 95%, 68%);
+
+    /* Neutral Colors */
+    --White: hsl(0, 0%, 100%);
+    --Dark_desaturated_blue: hsl(236, 21%, 26%);
+    --Very_dark_blue: hsl(235, 16%, 14%);
+    --Very_dark_blue: hsl(234, 17%, 12%);
+}
+
+
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    font-family: "Red Hat Text";
+}
