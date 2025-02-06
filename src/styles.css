@@ -13,7 +13,7 @@
     --White: hsl(0, 0%, 100%);
     --Dark_desaturated_blue: hsl(236, 21%, 26%);
     --Very_dark_blue: hsl(235, 16%, 14%);
-    --Very_dark_blue: hsl(234, 17%, 12%);
+    --Very_dark_most_blue: hsl(234, 17%, 12%);
 }
 
 
@@ -24,4 +24,6 @@ html, body{
 
 body{
     font-family: "Red Hat Text";
+    margin: 0;
+    font-weight: 700;
 }

@@ -1,4 +1,20 @@
 
 @media only screen and (min-width: 768px) and (orientation: portrait){
     
+    .bottom_img{
+        height: 20%;
+    }
+    
+    p{
+        font-size: 3.8vw;
+    }
+
+    .icons_container{
+        height: 10%;
+        column-gap: 6.5vw;
+    }
+    
+    .icon{
+        width: 5vw;
+    }
 }

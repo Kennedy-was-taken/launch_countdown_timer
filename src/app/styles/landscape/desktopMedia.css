@@ -1,4 +1,9 @@
 
 @media only screen and (min-width: 1200px) and (orientation: landscape){
     
+    p{
+        font-size: 1.3vw;
+        letter-spacing: 0.7vw;
+    }
+
 }

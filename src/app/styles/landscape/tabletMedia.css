@@ -1,4 +1,21 @@
 
 @media only screen and (min-width: 950px) and (orientation: landscape){
     
+    .bottom_img{
+        height: 20%;
+    }
+    
+    p{
+        font-size: 1.5vw;
+        letter-spacing: 0.8vw;
+    }
+
+    .icons_container{
+        height: 15%;
+        column-gap: 2.5vw;
+    }
+    
+    .icon{
+        width: 2vw;
+    }
 }

@@ -1,4 +1,22 @@
 
 @media only screen and (max-width: 915px) and (orientation: landscape){
     
+    .bottom_img{
+        height: 20%;
+    }
+    
+    p{
+        font-size: 1.5vw;
+        letter-spacing: 0.8vw;
+    }
+
+    .icons_container{
+        height: 10%;
+        column-gap: 3.5vw;
+    }
+    
+    .icon{
+        width: 2vw;
+    }
+
 }
